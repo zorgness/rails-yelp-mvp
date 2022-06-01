@@ -1,0 +1,16 @@
+// Import page-specific CSS files here.
+@import "home";
+
+.banner {
+  margin: 0 24px;
+  padding-top: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 12px
+}
